@@ -1,0 +1,9 @@
+# Ignore local environment overrides
+.env
+
+# Bytecode files
+__pycache__/
+*.pyc
+
+# Local Firebase credentials (not committed)
+ServiceAccount.json
